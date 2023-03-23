@@ -14,12 +14,13 @@ This project was my very first experience with this graphic API.
 <br />
 
 ## Features:
-🔅 Vulkan setup <br>
-🔅 Resource Manager <br>
+#### 🔅 Vulkan setup
+#### 🔅 Resource Manager
 - Meshes
 - Textures
-🔅 Multiple models in the scene <br>
-🔅 Camera (with Free Cam mode)
+
+#### 🔅 Multiple models in the scene 
+#### 🔅 Camera (with Free Cam mode)
 
 
 ## Controls:
